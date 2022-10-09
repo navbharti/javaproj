@@ -7,8 +7,6 @@ public class Person {
     String Address;
     String City;
     
-    
-    
 	public Person(long personID, String lastName, String firstName, String address, String city) {
 		super();
 		PersonID = personID;
